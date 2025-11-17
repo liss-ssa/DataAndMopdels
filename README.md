@@ -21,7 +21,7 @@
 ├── Финальный вариант/
 │   └── ...
 ├── notebooks/
-│   ├── YourModel
+│   ├── YourModel/
 │       ├── EDA.ipynb
         ├── model_training.ipynb
 │   └── ...
