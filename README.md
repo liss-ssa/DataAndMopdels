@@ -21,8 +21,9 @@
 ├── Финальный вариант/
 │   └── ...
 ├── notebooks/
-│   ├── EDA.ipynb
-│   ├── model_training.ipynb
+│   ├── YourModel
+│       ├── EDA.ipynb
+        ├── model_training.ipynb
 │   └── ...
 └── README.md
 ```
