@@ -1,0 +1,9 @@
+model,target,error
+ARIMA,СКР,4.14
+ARIMA,ОПЖ,1.22
+Prophet,СКР,
+Prophet,ОПЖ,
+Random Forest,СКР,2.74
+Random Forest,ОПЖ,0.94
+XGBoost,СКР,2.20
+XGBoost,ОПЖ,1.13
